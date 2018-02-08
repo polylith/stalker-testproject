@@ -9,4 +9,4 @@ RUN go-wrapper install    # "go install -v ./..."
 RUN go get github.com/tebeka/go2xunit
 
 asd
-sssss
+ssssss
