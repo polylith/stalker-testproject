@@ -19,7 +19,7 @@ func fizzbuzz() (result string){
 			buffer.WriteString(partialResult)
 			buffer.WriteString("\n")
 	}
-	sss
+	ssss
   result = buffer.String()
 	return
 }
